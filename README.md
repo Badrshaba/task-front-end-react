@@ -1,4 +1,4 @@
-# how to to run project
+# how to run the application locally
 
 ## npm i 
 ### npm run dev
